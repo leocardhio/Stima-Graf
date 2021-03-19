@@ -6,6 +6,17 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "Graf-Tubes-Stima2/1.0.0": {
+        "dependencies": {
+          "AutomaticGraphLayout": "1.1.11",
+          "AutomaticGraphLayout.Drawing": "1.1.11",
+          "AutomaticGraphLayout.GraphViewerGDI": "1.1.11",
+          "AutomaticGraphLayout.WpfGraphControl": "1.1.11"
+        },
+        "runtime": {
+          "Graf-Tubes-Stima2.dll": {}
+        }
+      },
       "AutomaticGraphLayout/1.1.11": {
         "runtime": {
           "lib/netstandard2.0/AutomaticGraphLayout.dll": {
@@ -50,6 +61,11 @@
     }
   },
   "libraries": {
+    "Graf-Tubes-Stima2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "AutomaticGraphLayout/1.1.11": {
       "type": "package",
       "serviceable": true,
