@@ -1,0 +1,9 @@
+D:\Coolyeah\Semester IV\Stima\TUBES\Tubes 2\leo\Graf-Tubes-Stima2\bin\Release\graf-tubes\Graf-Tubes-Stima2.exe
+D:\Coolyeah\Semester IV\Stima\TUBES\Tubes 2\leo\Graf-Tubes-Stima2\bin\Release\graf-tubes\Graf-Tubes-Stima2.dll
+D:\Coolyeah\Semester IV\Stima\TUBES\Tubes 2\leo\Graf-Tubes-Stima2\bin\Release\graf-tubes\Graf-Tubes-Stima2.deps.json
+D:\Coolyeah\Semester IV\Stima\TUBES\Tubes 2\leo\Graf-Tubes-Stima2\bin\Release\graf-tubes\Graf-Tubes-Stima2.runtimeconfig.json
+D:\Coolyeah\Semester IV\Stima\TUBES\Tubes 2\leo\Graf-Tubes-Stima2\bin\Release\graf-tubes\Graf-Tubes-Stima2.pdb
+D:\Coolyeah\Semester IV\Stima\TUBES\Tubes 2\leo\Graf-Tubes-Stima2\bin\Release\graf-tubes\AutomaticGraphLayout.dll
+D:\Coolyeah\Semester IV\Stima\TUBES\Tubes 2\leo\Graf-Tubes-Stima2\bin\Release\graf-tubes\AutomaticGraphLayout.Drawing.dll
+D:\Coolyeah\Semester IV\Stima\TUBES\Tubes 2\leo\Graf-Tubes-Stima2\bin\Release\graf-tubes\Microsoft.Msagl.GraphViewerGdi.dll
+D:\Coolyeah\Semester IV\Stima\TUBES\Tubes 2\leo\Graf-Tubes-Stima2\bin\Release\graf-tubes\Microsoft.Msagl.WpfGraphControl.dll

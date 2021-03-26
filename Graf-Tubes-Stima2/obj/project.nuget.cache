@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KltM7OOfvDlnFj6w4fau9lcZrb4fTWNUhnwG6CFvegMICcNC4KajhxD19SwKQoimsLWlrmCn5leGIeQrTfEI1w==",
+  "success": true,
+  "projectFilePath": "D:\\Coolyeah\\Semester IV\\Stima\\TUBES\\Tubes 2\\leo\\Graf-Tubes-Stima2\\Graf-Tubes-Stima2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leo\\.nuget\\packages\\automaticgraphlayout\\1.1.11\\automaticgraphlayout.1.1.11.nupkg.sha512",
+    "C:\\Users\\Leo\\.nuget\\packages\\automaticgraphlayout.drawing\\1.1.11\\automaticgraphlayout.drawing.1.1.11.nupkg.sha512",
+    "C:\\Users\\Leo\\.nuget\\packages\\automaticgraphlayout.graphviewergdi\\1.1.11\\automaticgraphlayout.graphviewergdi.1.1.11.nupkg.sha512",
+    "C:\\Users\\Leo\\.nuget\\packages\\automaticgraphlayout.wpfgraphcontrol\\1.1.11\\automaticgraphlayout.wpfgraphcontrol.1.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
