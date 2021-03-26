@@ -140,7 +140,7 @@ namespace Graf_Tubes_Stima2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (comboBox1.Text != "")
+            if (comboBox1.Text != "" && (radioButton1.Checked || radioButton2.Checked))
             {
                 //////create a viewer object 
                 Microsoft.Msagl.GraphViewerGdi.GViewer viewer = new Microsoft.Msagl.GraphViewerGdi.GViewer();
@@ -304,9 +304,14 @@ namespace Graf_Tubes_Stima2
                     tMutual.IsAccessible = false;
                     tMutual.Size = stMutual;
 
-                    foreach (string friends in entry.Value)
+
+                    for (int i = 0; i < entry.Value.Count; i++) 
                     {
-                        tMutual.Text = tMutual.Text + friends + ",";
+                        tMutual.Text = tMutual.Text + entry.Value[i];
+                        if (i != entry.Value.Count - 1)
+                        {
+                            tMutual.Text = tMutual.Text + ",";
+                        }
                     }
 
                     rMutual.Click += new System.EventHandler((sender,e) => rMutualGraphDrawer(sender,e,rMutual,graph));
