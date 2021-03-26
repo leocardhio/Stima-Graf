@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp2
+namespace Graf_Tubes_Stima2
 {
     public class DFS
     {
