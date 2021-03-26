@@ -121,11 +121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coolyeah\\Semester IV\\Stima\\TUBES\\Tubes 2\\leo\\Graf-Tubes-Stima2\\Graf-Tubes-Stima2.csproj",
+      "projectUniqueName": "D:\\Coolyeah\\Semester IV\\Stima\\TUBES\\Tubes 2\\Graf-Tubes-Stima2\\Graf-Tubes-Stima2.csproj",
       "projectName": "Graf-Tubes-Stima2",
-      "projectPath": "D:\\Coolyeah\\Semester IV\\Stima\\TUBES\\Tubes 2\\leo\\Graf-Tubes-Stima2\\Graf-Tubes-Stima2.csproj",
+      "projectPath": "D:\\Coolyeah\\Semester IV\\Stima\\TUBES\\Tubes 2\\Graf-Tubes-Stima2\\Graf-Tubes-Stima2.csproj",
       "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-      "outputPath": "D:\\Coolyeah\\Semester IV\\Stima\\TUBES\\Tubes 2\\leo\\Graf-Tubes-Stima2\\obj\\",
+      "outputPath": "D:\\Coolyeah\\Semester IV\\Stima\\TUBES\\Tubes 2\\Graf-Tubes-Stima2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

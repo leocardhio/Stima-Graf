@@ -289,8 +289,12 @@ namespace Graf_Tubes_Stima2
         {
             Point initPRadio = new Point(36, 805);
             Point initPText = new Point(56,832);
-            foreach (KeyValuePair<string, List<string>> entry in mutual)
+            var sorted = from entry in mutual orderby entry.Value.Count descending select entry;
+            Dictionary<string,List<string>> sorted2 = sorted.ToDictionary(x=>x.Key, x=>x.Value);
+            foreach (KeyValuePair<string, List<string>> entry in sorted2)
             {
+                
+                
                 if (entry.Value.Count > 0)
                 {
                     RadioButton rMutual = new RadioButton();
