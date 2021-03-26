@@ -7,7 +7,7 @@ Fitur-fitur seperti explore friends atau mutual friend mungkin sudah sering kita
 Algoritma yang umum dipakai dalam pengimplementasian fitur-fitur tersebut adalah Breadth First Search (BFS) dan Depth First Search (DFS).
 
 # How to Use
-1. Jalankan file Graf-Tubes-Stima2.exe pada directory bin/Release/graf-tubes
+1. Jalankan file Graf-Tubes-Stima2.exe yang terdapat pada directory `bin/Release/graf-tubes`
 2. Setelah aplikasi berjalan, user diminta untuk memasukkan file `.txt` yang berisikan data untuk membangun graf.
 3. User diminta untuk memilih satu dari dua algoritma yang disediakan (BFS atau DFS)
 4. Pilih node yang akan menjadi starting point dan end point ketika proses dijalankan.
